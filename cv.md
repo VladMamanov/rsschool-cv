@@ -1,5 +1,7 @@
 # **VLAD MAMANOV**
 
+![photo](images/avatar.png)
+
 ## **Contact information:**
 ### * __Phone:__ +48794952210
 ### * __E-mail:__ vladmamanov@gmail.com
